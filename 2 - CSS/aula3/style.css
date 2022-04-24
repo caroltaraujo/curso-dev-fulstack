@@ -1,0 +1,14 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-position: center center;
+}
+
+p {
+    color: #2e2e2e;
+}
+
+.foto-principal {
+    width: 200px;
+}
